@@ -96,7 +96,7 @@ def build_rss(articles):
     )
 
     atom_link = ET.SubElement(channel, "atom:link")
-    atom_link.set("href", "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/vector-talent-insights.xml")
+    atom_link.set("href", "https://raw.githubusercontent.com/jamesvector/vector-rss/main/vector-talent-insights.xml")
     atom_link.set("rel", "self")
     atom_link.set("type", "application/rss+xml")
 

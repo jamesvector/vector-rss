@@ -1,388 +1,534 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Vector Talent Insights</title>
     <link>https://www.vectorta.com/insights</link>
     <description>Recruitment, talent development and industry trends for CDMO &amp; CRO organisations from Vector Talent.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 03 Jun 2026 00:00:00 GMT</lastBuildDate>
-    <atom:link href="https://www.vectorta.com/insights/rss.xml" rel="self" type="application/rss+xml"/>
-
-    <item>
-      <title>CDMO Recruitment: Why Specialist Knowledge Changes Everything</title>
-      <link>https://www.vectorta.com/article/cdmo-recruitment-specialist-knowledge</link>
-      <category>Talent Acquisition</category>
-      <pubDate>Tue, 03 Jun 2026 00:00:00 GMT</pubDate>
-      <guid>https://www.vectorta.com/article/cdmo-recruitment-specialist-knowledge</guid>
-    </item>
-
-    <item>
-      <title>Why CDMO Commercial Hiring Keeps Failing</title>
-      <link>https://www.vectorta.com/article/why-cdmo-commercial-hiring-keeps-failing</link>
-      <category>Talent Acquisition</category>
-      <pubDate>Mon, 02 Jun 2026 00:00:00 GMT</pubDate>
-      <guid>https://www.vectorta.com/article/why-cdmo-commercial-hiring-keeps-failing</guid>
-    </item>
-
-    <item>
-      <title>Cell and Gene Therapy Manufacturing: 4 Trends Every CDMO Should Know</title>
-      <link>https://www.vectorta.com/article/cell-and-gene-therapy-manufacturing-4-trends-every-cdmo-should-know</link>
-      <category>Industry</category>
-      <pubDate>Thu, 29 May 2026 00:00:00 GMT</pubDate>
-      <guid>https://www.vectorta.com/article/cell-and-gene-therapy-manufacturing-4-trends-every-cdmo-should-know</guid>
-    </item>
-
-    <item>
-      <title>Vector Talent Elevates Jack Shute to Chief Operating Officer</title>
-      <link>https://www.vectorta.com/article/jack-shute-promoted-chief-operating-officer-vector-talent</link>
-      <category>Company News</category>
-      <pubDate>Wed, 28 May 2026 00:00:00 GMT</pubDate>
-      <guid>https://www.vectorta.com/article/jack-shute-promoted-chief-operating-officer-vector-talent</guid>
-    </item>
-
-    <item>
-      <title>Why the Best Commercial Leaders in CDMO Often Don't Fit the Brief</title>
-      <link>https://www.vectorta.com/article/cdmo-commercial-hiring-overlooked-talent</link>
-      <category>Leadership</category>
-      <pubDate>Tue, 27 May 2026 00:00:00 GMT</pubDate>
-      <guid>https://www.vectorta.com/article/cdmo-commercial-hiring-overlooked-talent</guid>
-    </item>
-
+    <lastBuildDate>Thu, 04 Jun 2026 09:23:13 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/jamesvector/vector-rss/main/vector-talent-insights.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>ELEVATE: Henny Zijlstra on Gut Feeling, Guilt, and Getting to the Top</title>
       <link>https://www.vectorta.com/article/gut-feeling-guilt-and-getting-to-the-top-a-conversation-with-henny-zijlstra</link>
       <category>Leadership</category>
-      <pubDate>Tue, 27 May 2026 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/gut-feeling-guilt-and-getting-to-the-top-a-conversation-with-henny-zijlstra</guid>
     </item>
-
-    <item>
-      <title>CPHI Americas 2026: What's on the Agenda and Why It Matters</title>
-      <link>https://www.vectorta.com/article/cphi-americas-2026-whats-on-the-agenda-and-why-it-matters</link>
-      <category>Events</category>
-      <pubDate>Thu, 22 May 2026 00:00:00 GMT</pubDate>
-      <guid>https://www.vectorta.com/article/cphi-americas-2026-whats-on-the-agenda-and-why-it-matters</guid>
-    </item>
-
-    <item>
-      <title>Jasmine Manson Joins Vector as Quality Talent Partner for the CDMO Sector</title>
-      <link>https://www.vectorta.com/article/jasmine-manson-quality-talent-partner-cdmo</link>
-      <category>Company News</category>
-      <pubDate>Tue, 20 May 2026 00:00:00 GMT</pubDate>
-      <guid>https://www.vectorta.com/article/jasmine-manson-quality-talent-partner-cdmo</guid>
-    </item>
-
-    <item>
-      <title>What the Next Generation of Pharma Services Leaders Actually Looks Like</title>
-      <link>https://www.vectorta.com/article/what-the-next-generation-of-pharma-services-leaders-actually-looks-like</link>
-      <category>Leadership</category>
-      <pubDate>Tue, 20 May 2026 00:00:00 GMT</pubDate>
-      <guid>https://www.vectorta.com/article/what-the-next-generation-of-pharma-services-leaders-actually-looks-like</guid>
-    </item>
-
-    <item>
-      <title>How Decentralised Trials Are Reshaping Clinical Operations Hiring</title>
-      <link>https://www.vectorta.com/article/how-decentralised-trials-are-reshaping-clinical-operations-hiring</link>
-      <category>Industry</category>
-      <pubDate>Sun, 18 May 2026 00:00:00 GMT</pubDate>
-      <guid>https://www.vectorta.com/article/how-decentralised-trials-are-reshaping-clinical-operations-hiring</guid>
-    </item>
-
-    <item>
-      <title>Welcoming James Mitchell to Vector Talent</title>
-      <link>https://www.vectorta.com/article/welcoming-james-mitchell-to-vector-talent</link>
-      <category>Company News</category>
-      <pubDate>Wed, 14 May 2026 00:00:00 GMT</pubDate>
-      <guid>https://www.vectorta.com/article/welcoming-james-mitchell-to-vector-talent</guid>
-    </item>
-
-    <item>
-      <title>Why Packaging Has Become One of the Most Competitive Hiring Areas in the CDMO Sector</title>
-      <link>https://www.vectorta.com/article/why-packaging-has-become-one-of-the-most-competitive-hiring-areas-in-the-cdmo-sector</link>
-      <category>Industry</category>
-      <pubDate>Tue, 13 May 2026 00:00:00 GMT</pubDate>
-      <guid>https://www.vectorta.com/article/why-packaging-has-become-one-of-the-most-competitive-hiring-areas-in-the-cdmo-sector</guid>
-    </item>
-
-    <item>
-      <title>Biotech Recruitment in South Africa: A Hiring Manager's View of the Market</title>
-      <link>https://www.vectorta.com/article/biotech-recruitment-in-south-africa-a-hiring-managers-view-of-the-market</link>
-      <category>Talent Acquisition</category>
-      <pubDate>Sun, 11 May 2026 00:00:00 GMT</pubDate>
-      <guid>https://www.vectorta.com/article/biotech-recruitment-in-south-africa-a-hiring-managers-view-of-the-market</guid>
-    </item>
-
     <item>
       <title>5 Trends Shaping CDMO Hiring Right Now</title>
       <link>https://www.vectorta.com/article/5-trends-shaping-cdmo-hiring-right-now</link>
       <category>Industry</category>
-      <pubDate>Thu, 08 May 2026 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/5-trends-shaping-cdmo-hiring-right-now</guid>
     </item>
-
-    <item>
-      <title>CDMO Recruitment in South Africa: Understanding the Market</title>
-      <link>https://www.vectorta.com/article/cdmo-recruitment-in-south-africa-understanding-the-market</link>
-      <category>Talent Acquisition</category>
-      <pubDate>Sun, 04 May 2026 00:00:00 GMT</pubDate>
-      <guid>https://www.vectorta.com/article/cdmo-recruitment-in-south-africa-understanding-the-market</guid>
-    </item>
-
-    <item>
-      <title>Post-DCAT Week 2026: The Pharma Trends That Are Already Reshaping CDMO, CRO and Biotech Hiring</title>
-      <link>https://www.vectorta.com/article/post-dcat-week-2026-the-pharma-trends-that-are-already-reshaping-cdmo-cro-and-biotech-hiring</link>
-      <category>Events</category>
-      <pubDate>Thu, 30 Apr 2026 00:00:00 GMT</pubDate>
-      <guid>https://www.vectorta.com/article/post-dcat-week-2026-the-pharma-trends-that-are-already-reshaping-cdmo-cro-and-biotech-hiring</guid>
-    </item>
-
     <item>
       <title>Is GLP-1 the New Penicillin? What the Market Shift Means for CDMOs and CROs</title>
       <link>https://www.vectorta.com/article/is-glp-1-the-new-penicillin-what-the-market-shift-means-for-cdmos-and-cros</link>
       <category>Industry</category>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/is-glp-1-the-new-penicillin-what-the-market-shift-means-for-cdmos-and-cros</guid>
     </item>
-
+    <item>
+      <title>Vector Talent Elevates Jack Shute to Chief Operating Officer</title>
+      <link>https://www.vectorta.com/article/jack-shute-promoted-chief-operating-officer-vector-talent</link>
+      <guid>https://www.vectorta.com/article/jack-shute-promoted-chief-operating-officer-vector-talent</guid>
+    </item>
+    <item>
+      <title>Post-DCAT Week 2026: The Pharma Trends That Are Already Reshaping CDMO, CRO and Biotech Hiring</title>
+      <link>https://www.vectorta.com/article/post-dcat-week-2026-the-pharma-trends-that-are-already-reshaping-cdmo-cro-and-biotech-hiring</link>
+      <guid>https://www.vectorta.com/article/post-dcat-week-2026-the-pharma-trends-that-are-already-reshaping-cdmo-cro-and-biotech-hiring</guid>
+    </item>
+    <item>
+      <title>Biotech Recruitment Strategy: How to Compete for Specialist Talent</title>
+      <link>https://www.vectorta.com/article/biotech-recruitment-strategy</link>
+      <guid>https://www.vectorta.com/article/biotech-recruitment-strategy</guid>
+    </item>
+    <item>
+      <title>How to Hire Senior Leaders for a New CDMO Site: A Practical Guide for Hiring Managers</title>
+      <link>https://www.vectorta.com/article/how-to-hire-senior-leaders-cdmo-site</link>
+      <guid>https://www.vectorta.com/article/how-to-hire-senior-leaders-cdmo-site</guid>
+    </item>
+    <item>
+      <title>Dining in Milan for CPHI</title>
+      <link>https://www.vectorta.com/article/dining-in-milan-for-cphi</link>
+      <category>Events</category>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/dining-in-milan-for-cphi</guid>
+    </item>
+    <item>
+      <title>Join Vector at Unleash World in Paris</title>
+      <link>https://www.vectorta.com/article/vectorunleash</link>
+      <category>Events</category>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/vectorunleash</guid>
+    </item>
+    <item>
+      <title>Join Vector at CPHI Milan 2024</title>
+      <link>https://www.vectorta.com/article/cphi2024</link>
+      <category>Events</category>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/cphi2024</guid>
+    </item>
+    <item>
+      <title>CDMO Recruitment: Why Specialist Knowledge Changes Everything</title>
+      <link>https://www.vectorta.com/article/cdmo-recruitment-specialist-knowledge</link>
+      <category>Talent Acquisition</category>
+      <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/cdmo-recruitment-specialist-knowledge</guid>
+    </item>
+    <item>
+      <title>Why CDMO Commercial Hiring Keeps Failing</title>
+      <link>https://www.vectorta.com/article/why-cdmo-commercial-hiring-keeps-failing</link>
+      <category>Talent Acquisition</category>
+      <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/why-cdmo-commercial-hiring-keeps-failing</guid>
+    </item>
+    <item>
+      <title>Cell and Gene Therapy Manufacturing: 4 Trends Every CDMO Should Know</title>
+      <link>https://www.vectorta.com/article/cell-and-gene-therapy-manufacturing-4-trends-every-cdmo-should-know</link>
+      <category>Industry</category>
+      <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/cell-and-gene-therapy-manufacturing-4-trends-every-cdmo-should-know</guid>
+    </item>
+    <item>
+      <title>Why the Best Commercial Leaders in CDMO Often Don't Fit the Brief</title>
+      <link>https://www.vectorta.com/article/cdmo-commercial-hiring-overlooked-talent</link>
+      <category>Leadership</category>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/cdmo-commercial-hiring-overlooked-talent</guid>
+    </item>
+    <item>
+      <title>CPHI Americas 2026: What's on the Agenda and Why It Matters</title>
+      <link>https://www.vectorta.com/article/cphi-americas-2026-whats-on-the-agenda-and-why-it-matters</link>
+      <category>Events</category>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/cphi-americas-2026-whats-on-the-agenda-and-why-it-matters</guid>
+    </item>
+    <item>
+      <title>Jasmine Manson Joins Vector as Quality Talent Partner for the CDMO Sector</title>
+      <link>https://www.vectorta.com/article/jasmine-manson-quality-talent-partner-cdmo</link>
+      <category>Company News</category>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/jasmine-manson-quality-talent-partner-cdmo</guid>
+    </item>
+    <item>
+      <title>What the Next Generation of Pharma Services Leaders Actually Looks Like</title>
+      <link>https://www.vectorta.com/article/what-the-next-generation-of-pharma-services-leaders-actually-looks-like</link>
+      <category>Leadership</category>
+      <pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/what-the-next-generation-of-pharma-services-leaders-actually-looks-like</guid>
+    </item>
+    <item>
+      <title>How Decentralised Trials Are Reshaping Clinical Operations Hiring</title>
+      <link>https://www.vectorta.com/article/how-decentralised-trials-are-reshaping-clinical-operations-hiring</link>
+      <category>Industry</category>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/how-decentralised-trials-are-reshaping-clinical-operations-hiring</guid>
+    </item>
+    <item>
+      <title>Welcoming James Mitchell to Vector Talent</title>
+      <link>https://www.vectorta.com/article/welcoming-james-mitchell-to-vector-talent</link>
+      <category>Company News</category>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/welcoming-james-mitchell-to-vector-talent</guid>
+    </item>
+    <item>
+      <title>Why Packaging Has Become One of the Most Competitive Hiring Areas in the CDMO Sector</title>
+      <link>https://www.vectorta.com/article/why-packaging-has-become-one-of-the-most-competitive-hiring-areas-in-the-cdmo-sector</link>
+      <category>Industry</category>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/why-packaging-has-become-one-of-the-most-competitive-hiring-areas-in-the-cdmo-sector</guid>
+    </item>
+    <item>
+      <title>Biotech Recruitment in South Africa: A Hiring Manager's View of the Market</title>
+      <link>https://www.vectorta.com/article/biotech-recruitment-in-south-africa-a-hiring-managers-view-of-the-market</link>
+      <category>Talent Acquisition</category>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/biotech-recruitment-in-south-africa-a-hiring-managers-view-of-the-market</guid>
+    </item>
+    <item>
+      <title>CDMO Recruitment in South Africa: Understanding the Market</title>
+      <link>https://www.vectorta.com/article/cdmo-recruitment-in-south-africa-understanding-the-market</link>
+      <category>Talent Acquisition</category>
+      <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/cdmo-recruitment-in-south-africa-understanding-the-market</guid>
+    </item>
     <item>
       <title>CRO Hiring in South Africa: What the Market Looks Like Right Now</title>
       <link>https://www.vectorta.com/article/cro-hiring-in-south-africa-what-the-market-looks-like-right-now</link>
       <category>Talent Acquisition</category>
-      <pubDate>Mon, 27 Apr 2026 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/cro-hiring-in-south-africa-what-the-market-looks-like-right-now</guid>
     </item>
-
     <item>
       <title>Pharma Recruitment in Belgium: The Talent Market CDMOs, CROs, and Biotechs Cannot Afford to Misread</title>
       <link>https://www.vectorta.com/article/pharma-recruitment-belgium</link>
       <category>Talent Acquisition</category>
-      <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/pharma-recruitment-belgium</guid>
     </item>
-
     <item>
       <title>Indianapolis Life Sciences: Inside the Ecosystem Reshaping US Pharma Services</title>
       <link>https://www.vectorta.com/article/indianapolis-life-sciences-inside-the-ecosystem-reshaping-us-pharma-services</link>
       <category>Industry</category>
-      <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/indianapolis-life-sciences-inside-the-ecosystem-reshaping-us-pharma-services</guid>
     </item>
-
     <item>
       <title>The Biotech Hiring Market in 2026: Where Things Actually Stand</title>
       <link>https://www.vectorta.com/article/biotech-hiring-market-2026</link>
       <category>Industry</category>
-      <pubDate>Thu, 16 Apr 2026 00:00:00 GMT</pubDate>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/biotech-hiring-market-2026</guid>
     </item>
-
-    <item>
-      <title>How to Hire Senior Leaders for a New CDMO Site: A Practical Guide for Hiring Managers</title>
-      <link>https://www.vectorta.com/article/how-to-hire-senior-leaders-cdmo-site</link>
-      <category>Talent Acquisition</category>
-      <pubDate>Wed, 15 Apr 2026 00:00:00 GMT</pubDate>
-      <guid>https://www.vectorta.com/article/how-to-hire-senior-leaders-cdmo-site</guid>
-    </item>
-
     <item>
       <title>CRO Recruitment Best Practices: How to Build High-Impact Teams</title>
       <link>https://www.vectorta.com/article/cro-recruitment-best-practices</link>
       <category>Talent Acquisition</category>
-      <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 14 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/cro-recruitment-best-practices</guid>
     </item>
-
     <item>
       <title>CDMO Recruitment: How to Attract Senior Talent in a Competitive Market</title>
       <link>https://www.vectorta.com/article/cdmo-recruitment-how-to-attract-senior-talent</link>
       <category>Talent Acquisition</category>
-      <pubDate>Mon, 07 Apr 2026 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 07 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/cdmo-recruitment-how-to-attract-senior-talent</guid>
     </item>
-
     <item>
       <title>The CRDMO Effect: Why the Leaders the Industry Needs Don't Exist Yet</title>
       <link>https://www.vectorta.com/article/the-crdmo-effect-why-the-leaders-the-industry-needs-dont-exist-yet</link>
       <category>Industry</category>
-      <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/the-crdmo-effect-why-the-leaders-the-industry-needs-dont-exist-yet</guid>
     </item>
-
-    <item>
-      <title>Biotech Recruitment Strategy: How to Compete for Specialist Talent</title>
-      <link>https://www.vectorta.com/article/biotech-recruitment-strategy</link>
-      <category>Talent Acquisition</category>
-      <pubDate>Mon, 31 Mar 2026 00:00:00 GMT</pubDate>
-      <guid>https://www.vectorta.com/article/biotech-recruitment-strategy</guid>
-    </item>
-
     <item>
       <title>From Prediction to Reality: How the BIO2025 Workforce Trends Are Playing Out in 2026</title>
       <link>https://www.vectorta.com/article/from-prediction-to-reality-how-the-bio2025-workforce-trends-are-playing-out-in-2026</link>
       <category>Industry</category>
-      <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/from-prediction-to-reality-how-the-bio2025-workforce-trends-are-playing-out-in-2026</guid>
     </item>
-
     <item>
       <title>Humanising the Digital Workforce: Navigating AI and Talent Challenges in CDMO &amp; CRO Pharma Services</title>
       <link>https://www.vectorta.com/article/humanising-the-digital-workforce-navigating-ai-and-talent-challenges-in-cdmo-cro-pharma-services</link>
       <category>Industry</category>
-      <pubDate>Tue, 11 Mar 2026 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/humanising-the-digital-workforce-navigating-ai-and-talent-challenges-in-cdmo-cro-pharma-services</guid>
     </item>
-
     <item>
       <title>CDMO and CRO Talent Trends in 2026: Why People Will Define the Next Growth Phase</title>
       <link>https://www.vectorta.com/article/cdmo-and-cro-talent-trends-in-2026-why-people-will-define-the-next-growth-phase</link>
       <category>Industry</category>
-      <pubDate>Tue, 13 Jan 2026 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/cdmo-and-cro-talent-trends-in-2026-why-people-will-define-the-next-growth-phase</guid>
     </item>
-
     <item>
       <title>One Year of Elevate: Women Shaping Careers in Pharma Outsourcing</title>
       <link>https://www.vectorta.com/article/reflecting-on-a-year-of-elevate-powerful-stories-practical-wisdom-career-growth-in-pharma-outsourcing</link>
       <category>Industry</category>
-      <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/reflecting-on-a-year-of-elevate-powerful-stories-practical-wisdom-career-growth-in-pharma-outsourcing</guid>
     </item>
-
     <item>
       <title>Voices of Leadership: Three Great Women Leading the Way</title>
       <link>https://www.vectorta.com/article/voices-of-leadership-women-leading-the-way-in-pharma-outsourcing</link>
       <category>DE&amp;I</category>
-      <pubDate>Wed, 26 Nov 2025 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/voices-of-leadership-women-leading-the-way-in-pharma-outsourcing</guid>
     </item>
-
     <item>
       <title>CDMO Commercial Hiring in 2026: How Talent, Not Scale, Drives Growth</title>
       <link>https://www.vectorta.com/article/cdmo-commercial-hiring-in-2026-how-talent-not-scale-drives-growth</link>
       <category>Industry</category>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/cdmo-commercial-hiring-in-2026-how-talent-not-scale-drives-growth</guid>
     </item>
-
     <item>
       <title>CDMO Industry Update: M&amp;A, AI and the Talent Shifts Reshaping Life Sciences</title>
       <link>https://www.vectorta.com/article/cdmo-industry-update-m-a-ai-and-the-talent-shifts-reshaping-life-sciences</link>
       <category>Industry</category>
-      <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/cdmo-industry-update-m-a-ai-and-the-talent-shifts-reshaping-life-sciences</guid>
     </item>
-
     <item>
-      <title>India's Pharma Boom: How Global Collaboration Is Reshaping Talent and Innovation</title>
+      <title>India’s Pharma Boom: How Global Collaboration Is Reshaping Talent and Innovation</title>
       <link>https://www.vectorta.com/article/indias-pharma-boom-how-global-collaboration-is-reshaping-talent-and-innovation</link>
       <category>Industry</category>
-      <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/indias-pharma-boom-how-global-collaboration-is-reshaping-talent-and-innovation</guid>
     </item>
-
     <item>
       <title>Why Talent Retention Determines Success in Pharmaceutical M&amp;A</title>
       <link>https://www.vectorta.com/article/why-talent-retention-determines-success-in-pharmaceutical-m-a</link>
       <category>Industry</category>
-      <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+      <pubDate>Thu, 09 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/why-talent-retention-determines-success-in-pharmaceutical-m-a</guid>
     </item>
-
     <item>
       <title>Biopharma Talent Trends 2025: Commercialisation, Partnerships and Workforce Strategy</title>
       <link>https://www.vectorta.com/article/biopharma-talent-trends-2025-commercialisation-partnerships-and-workforce-strategy</link>
       <category>Industry</category>
-      <pubDate>Wed, 10 Sep 2025 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 10 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/biopharma-talent-trends-2025-commercialisation-partnerships-and-workforce-strategy</guid>
     </item>
-
     <item>
       <title>Adaptive Engineering: The Next Leap for CDMOs</title>
       <link>https://www.vectorta.com/article/adaptive-engineering-the-next-leap-for-cdmos</link>
       <category>Industry</category>
-      <pubDate>Wed, 27 Aug 2025 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/adaptive-engineering-the-next-leap-for-cdmos</guid>
     </item>
-
     <item>
       <title>Biopharma Workforce Trends: Why Inclusion, Storytelling and Science Trust Matter</title>
       <link>https://www.vectorta.com/article/biopharma-workforce-trends-why-inclusion-storytelling-and-science-trust-matter</link>
       <category>Industry</category>
-      <pubDate>Wed, 20 Aug 2025 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/biopharma-workforce-trends-why-inclusion-storytelling-and-science-trust-matter</guid>
     </item>
-
     <item>
       <title>BIO Annual Review 2025: Decoding the Workforce Revolution</title>
       <link>https://www.vectorta.com/article/bio-annual-review-2025-decoding-the-workforce-revolution</link>
       <category>Industry</category>
-      <pubDate>Mon, 21 Jul 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/bio-annual-review-2025-decoding-the-workforce-revolution</guid>
     </item>
-
     <item>
       <title>Planting Seeds, Not Expectations: Insights from Oksana Lukash</title>
       <link>https://www.vectorta.com/article/planting-seeds-not-expectations-insights-from-oksana-lukash</link>
       <category>Leadership</category>
-      <pubDate>Tue, 25 Mar 2025 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 25 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/planting-seeds-not-expectations-insights-from-oksana-lukash</guid>
     </item>
-
     <item>
       <title>New Market Expansion: Hiring For Precision, Scalability and Growth</title>
       <link>https://www.vectorta.com/article/new-market-expansion-hiring-for-precision-scalability-and-growth</link>
       <category>Industry</category>
-      <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/new-market-expansion-hiring-for-precision-scalability-and-growth</guid>
     </item>
-
     <item>
       <title>Future-Proof Your Career with Resilience: Insights from Demetria Johnson</title>
       <link>https://www.vectorta.com/article/future-proofing-your-career-with-resilience-insights-from-demetria-johnson-elevate-series</link>
       <category>Leadership</category>
-      <pubDate>Mon, 17 Feb 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 17 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/future-proofing-your-career-with-resilience-insights-from-demetria-johnson-elevate-series</guid>
     </item>
-
     <item>
       <title>Navigating Workforce Scalability During CDMO Growth Phases</title>
       <link>https://www.vectorta.com/article/navigating-workforce-scalability-during-cdmo-growth-phases</link>
       <category>Industry</category>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/navigating-workforce-scalability-during-cdmo-growth-phases</guid>
     </item>
-
     <item>
       <title>5 Signs Your Hiring Strategy Needs a Refresh in the CDMO and CRO Sector</title>
       <link>https://www.vectorta.com/article/5-signs-your-hiring-strategy-needs-a-refresh</link>
       <category>Talent Acquisition</category>
-      <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/5-signs-your-hiring-strategy-needs-a-refresh</guid>
     </item>
-
     <item>
       <title>The Future of Pharma Outsourcing: Talent Trends Shaping 2025</title>
       <link>https://www.vectorta.com/article/the-future-of-pharma-outsourcing-2025</link>
       <category>Talent Acquisition</category>
-      <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/the-future-of-pharma-outsourcing-2025</guid>
     </item>
-
     <item>
       <title>Skills-Based Hiring</title>
       <link>https://www.vectorta.com/article/skills-based-hiring</link>
       <category>Training &amp; Development</category>
-      <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/skills-based-hiring</guid>
     </item>
-
     <item>
       <title>ELEVATE: Audrey Greenberg on Pivoting with Purpose</title>
       <link>https://www.vectorta.com/article/elevate-audrey-greenberg-on-pivoting-with-purpose</link>
       <category>Leadership</category>
-      <pubDate>Tue, 21 Jan 2025 00:00:00 GMT</pubDate>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/elevate-audrey-greenberg-on-pivoting-with-purpose</guid>
     </item>
-
+    <item>
+      <title>The Changing Landscape of Talent Acquisition</title>
+      <link>https://www.vectorta.com/article/the-changing-landscape-of-talent-acquisition</link>
+      <category>Talent Acquisition</category>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/the-changing-landscape-of-talent-acquisition</guid>
+    </item>
+    <item>
+      <title>Antony Bryson-McAteer Joins Vector</title>
+      <link>https://www.vectorta.com/article/antony-bryson-mcateer-joins-vector</link>
+      <category>Company News</category>
+      <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/antony-bryson-mcateer-joins-vector</guid>
+    </item>
+    <item>
+      <title>Turning Hiring Managers into Talent Magnets</title>
+      <link>https://www.vectorta.com/article/turning-hiring-managers-into-talent-magnets</link>
+      <category>Training &amp; Development</category>
+      <pubDate>Wed, 17 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/turning-hiring-managers-into-talent-magnets</guid>
+    </item>
+    <item>
+      <title>Why Recruitment Excellence Matters in the Pharmaceutical Industry</title>
+      <link>https://www.vectorta.com/article/why-recruitment-excellence-matters-more-than-ever-in-the-pharmaceutical-industry</link>
+      <category>Talent Acquisition</category>
+      <pubDate>Mon, 15 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/why-recruitment-excellence-matters-more-than-ever-in-the-pharmaceutical-industry</guid>
+    </item>
+    <item>
+      <title>Acclimatising New Talent into CDMO</title>
+      <link>https://www.vectorta.com/article/acclimatising-new-talent-into-cdmo</link>
+      <category>Industry</category>
+      <pubDate>Tue, 09 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/acclimatising-new-talent-into-cdmo</guid>
+    </item>
+    <item>
+      <title>Accelerating the Biopharma Supply Chain</title>
+      <link>https://www.vectorta.com/article/accelerating-the-biopharma-supply-chain</link>
+      <category>Industry</category>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/accelerating-the-biopharma-supply-chain</guid>
+    </item>
+    <item>
+      <title>Q1-2024 Projects</title>
+      <link>https://www.vectorta.com/article/top-global-hires-for-q1-2024</link>
+      <category>Company News</category>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/top-global-hires-for-q1-2024</guid>
+    </item>
+    <item>
+      <title>CPHI Barcelona 2023: Tackling the Pharma Talent Precipice - Part 2</title>
+      <link>https://www.vectorta.com/article/cphi-barcelona-2023-tackling-the-pharma-talent-precipice---part-2</link>
+      <category>Industry</category>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/cphi-barcelona-2023-tackling-the-pharma-talent-precipice---part-2</guid>
+    </item>
+    <item>
+      <title>CPHI Barcelona 2023: Tackling the Pharma Talent Precipice - Part 1</title>
+      <link>https://www.vectorta.com/article/cphi-barcelona-2023-tackling-the-pharma-talent-precipice---part-1</link>
+      <category>Industry</category>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/cphi-barcelona-2023-tackling-the-pharma-talent-precipice---part-1</guid>
+    </item>
+    <item>
+      <title>Vector Partners Welcomes Jack Shute, Managing Director</title>
+      <link>https://www.vectorta.com/article/vector-partners-welcomes-jack-shute-managing-director</link>
+      <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/vector-partners-welcomes-jack-shute-managing-director</guid>
+    </item>
+    <item>
+      <title>How To Strengthen Your TA Culture With Training And Development</title>
+      <link>https://www.vectorta.com/article/how-to-strengthen-your-ta-culture-with-training-and-development</link>
+      <category>Training &amp; Development</category>
+      <pubDate>Thu, 20 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/how-to-strengthen-your-ta-culture-with-training-and-development</guid>
+    </item>
+    <item>
+      <title>3 Ways Pharma Can Outsmart Talent Challenges in 2023</title>
+      <link>https://www.vectorta.com/article/3-ways-pharma-can-outsmart-talent-challenges-in-2023</link>
+      <category>Talent Acquisition</category>
+      <pubDate>Tue, 21 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/3-ways-pharma-can-outsmart-talent-challenges-in-2023</guid>
+    </item>
+    <item>
+      <title>CPHI Frankfurt 2022: Innovator Interview - Bora Pharmaceuticals</title>
+      <link>https://www.vectorta.com/article/cphi-frankfurt-2022-innovator-interview---bora-pharmaceuticals</link>
+      <category>Industry</category>
+      <pubDate>Thu, 15 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/cphi-frankfurt-2022-innovator-interview---bora-pharmaceuticals</guid>
+    </item>
+    <item>
+      <title>Career Development is Critical to the Survival of your Business</title>
+      <link>https://www.vectorta.com/article/career-development-is-critical-to-the-survival-of-your-business</link>
+      <category>Training &amp; Development</category>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/career-development-is-critical-to-the-survival-of-your-business</guid>
+    </item>
+    <item>
+      <title>The Candidate Experience: How important are candidates, anyway?</title>
+      <link>https://www.vectorta.com/article/the-candidate-experience-how-important-are-candidates-anyway-</link>
+      <category>Candidate Experience</category>
+      <pubDate>Tue, 27 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/the-candidate-experience-how-important-are-candidates-anyway-</guid>
+    </item>
+    <item>
+      <title>How will the new NYC salary transparency law impact you?</title>
+      <link>https://www.vectorta.com/article/how-will-the-new-nyc-salary-transparency-law-impact-you</link>
+      <category>Talent Acquisition</category>
+      <pubDate>Tue, 30 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/how-will-the-new-nyc-salary-transparency-law-impact-you</guid>
+    </item>
+    <item>
+      <title>2022: Talent Acquisition in a new world</title>
+      <link>https://www.vectorta.com/article/2022-talent-acquisition-in-a-new-world</link>
+      <category>Talent Acquisition</category>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/2022-talent-acquisition-in-a-new-world</guid>
+    </item>
+    <item>
+      <title>The Cost-of-Living Crisis and Its Concerning Impact on Recruitment</title>
+      <link>https://www.vectorta.com/article/the-cost-of-living-crisis-and-its-concerning-impact-on-recruitment</link>
+      <category>Talent Acquisition</category>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/the-cost-of-living-crisis-and-its-concerning-impact-on-recruitment</guid>
+    </item>
+    <item>
+      <title>Getting Pharma Fit for Sustainable Growth</title>
+      <link>https://www.vectorta.com/article/getting-pharma-fit-for-sustainable-growth</link>
+      <category>Industry</category>
+      <pubDate>Sat, 02 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/getting-pharma-fit-for-sustainable-growth</guid>
+    </item>
+    <item>
+      <title>Why Pride Month Matters to Science</title>
+      <link>https://www.vectorta.com/article/why-pride-month-matters-to-science</link>
+      <category>Candidate Experience</category>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/why-pride-month-matters-to-science</guid>
+    </item>
+    <item>
+      <title>How to Protect Your Teams from Burning Out</title>
+      <link>https://www.vectorta.com/article/how-to-protect-your-teams-from-burning-out</link>
+      <category>Talent Acquisition</category>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/how-to-protect-your-teams-from-burning-out</guid>
+    </item>
+    <item>
+      <title>Hiring Your Way to Growth</title>
+      <link>https://www.vectorta.com/article/hiring-your-way-to-growth</link>
+      <category>Industry</category>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/hiring-your-way-to-growth</guid>
+    </item>
+    <item>
+      <title>Talent Planning &amp; Tech: a Better Future for Pharma</title>
+      <link>https://www.vectorta.com/article/talent-planning-tech-a-better-future-for-pharma</link>
+      <category>Industry</category>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/talent-planning-tech-a-better-future-for-pharma</guid>
+    </item>
+    <item>
+      <title>5 Recommendations for Managing Unconscious Bias</title>
+      <link>https://www.vectorta.com/article/5-recommendations-for-managing-unconscious-bias</link>
+      <category>DE&amp;I</category>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/5-recommendations-for-managing-unconscious-bias</guid>
+    </item>
+    <item>
+      <title>Top 10 Tips to Reduce Unconscious Bias in Recruitment</title>
+      <link>https://www.vectorta.com/article/top-10-advices-to-control-unconscious-bias-for-successful-recruitment</link>
+      <category>DE&amp;I</category>
+      <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/top-10-advices-to-control-unconscious-bias-for-successful-recruitment</guid>
+    </item>
+    <item>
+      <title>Preparing Your Post Pandemic Talent Strategy</title>
+      <link>https://www.vectorta.com/article/preparing-your-post-pandemic-talent-strategy</link>
+      <category>Industry</category>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/preparing-your-post-pandemic-talent-strategy</guid>
+    </item>
   </channel>
 </rss>

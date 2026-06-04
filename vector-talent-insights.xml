@@ -5,70 +5,8 @@
     <link>https://www.vectorta.com/insights</link>
     <description>Recruitment, talent development and industry trends for CDMO &amp; CRO organisations from Vector Talent.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 04 Jun 2026 09:23:13 +0000</lastBuildDate>
-    <atom:link href="https://raw.githubusercontent.com/jamesvector/vector-rss/main/vector-talent-insights.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>ELEVATE: Henny Zijlstra on Gut Feeling, Guilt, and Getting to the Top</title>
-      <link>https://www.vectorta.com/article/gut-feeling-guilt-and-getting-to-the-top-a-conversation-with-henny-zijlstra</link>
-      <category>Leadership</category>
-      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.vectorta.com/article/gut-feeling-guilt-and-getting-to-the-top-a-conversation-with-henny-zijlstra</guid>
-    </item>
-    <item>
-      <title>5 Trends Shaping CDMO Hiring Right Now</title>
-      <link>https://www.vectorta.com/article/5-trends-shaping-cdmo-hiring-right-now</link>
-      <category>Industry</category>
-      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.vectorta.com/article/5-trends-shaping-cdmo-hiring-right-now</guid>
-    </item>
-    <item>
-      <title>Is GLP-1 the New Penicillin? What the Market Shift Means for CDMOs and CROs</title>
-      <link>https://www.vectorta.com/article/is-glp-1-the-new-penicillin-what-the-market-shift-means-for-cdmos-and-cros</link>
-      <category>Industry</category>
-      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.vectorta.com/article/is-glp-1-the-new-penicillin-what-the-market-shift-means-for-cdmos-and-cros</guid>
-    </item>
-    <item>
-      <title>Vector Talent Elevates Jack Shute to Chief Operating Officer</title>
-      <link>https://www.vectorta.com/article/jack-shute-promoted-chief-operating-officer-vector-talent</link>
-      <guid>https://www.vectorta.com/article/jack-shute-promoted-chief-operating-officer-vector-talent</guid>
-    </item>
-    <item>
-      <title>Post-DCAT Week 2026: The Pharma Trends That Are Already Reshaping CDMO, CRO and Biotech Hiring</title>
-      <link>https://www.vectorta.com/article/post-dcat-week-2026-the-pharma-trends-that-are-already-reshaping-cdmo-cro-and-biotech-hiring</link>
-      <guid>https://www.vectorta.com/article/post-dcat-week-2026-the-pharma-trends-that-are-already-reshaping-cdmo-cro-and-biotech-hiring</guid>
-    </item>
-    <item>
-      <title>Biotech Recruitment Strategy: How to Compete for Specialist Talent</title>
-      <link>https://www.vectorta.com/article/biotech-recruitment-strategy</link>
-      <guid>https://www.vectorta.com/article/biotech-recruitment-strategy</guid>
-    </item>
-    <item>
-      <title>How to Hire Senior Leaders for a New CDMO Site: A Practical Guide for Hiring Managers</title>
-      <link>https://www.vectorta.com/article/how-to-hire-senior-leaders-cdmo-site</link>
-      <guid>https://www.vectorta.com/article/how-to-hire-senior-leaders-cdmo-site</guid>
-    </item>
-    <item>
-      <title>Dining in Milan for CPHI</title>
-      <link>https://www.vectorta.com/article/dining-in-milan-for-cphi</link>
-      <category>Events</category>
-      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.vectorta.com/article/dining-in-milan-for-cphi</guid>
-    </item>
-    <item>
-      <title>Join Vector at Unleash World in Paris</title>
-      <link>https://www.vectorta.com/article/vectorunleash</link>
-      <category>Events</category>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.vectorta.com/article/vectorunleash</guid>
-    </item>
-    <item>
-      <title>Join Vector at CPHI Milan 2024</title>
-      <link>https://www.vectorta.com/article/cphi2024</link>
-      <category>Events</category>
-      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://www.vectorta.com/article/cphi2024</guid>
-    </item>
+    <lastBuildDate>Thu, 04 Jun 2026 09:32:14 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/vector-talent-insights.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>CDMO Recruitment: Why Specialist Knowledge Changes Everything</title>
       <link>https://www.vectorta.com/article/cdmo-recruitment-specialist-knowledge</link>
@@ -89,6 +27,19 @@
       <category>Industry</category>
       <pubDate>Fri, 29 May 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/cell-and-gene-therapy-manufacturing-4-trends-every-cdmo-should-know</guid>
+    </item>
+    <item>
+      <title>Vector Talent Elevates Jack Shute to Chief Operating Officer</title>
+      <link>https://www.vectorta.com/article/jack-shute-promoted-chief-operating-officer-vector-talent</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/jack-shute-promoted-chief-operating-officer-vector-talent</guid>
+    </item>
+    <item>
+      <title>ELEVATE: Henny Zijlstra on Gut Feeling, Guilt, and Getting to the Top</title>
+      <link>https://www.vectorta.com/article/gut-feeling-guilt-and-getting-to-the-top-a-conversation-with-henny-zijlstra</link>
+      <category>Leadership</category>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/gut-feeling-guilt-and-getting-to-the-top-a-conversation-with-henny-zijlstra</guid>
     </item>
     <item>
       <title>Why the Best Commercial Leaders in CDMO Often Don't Fit the Brief</title>
@@ -147,11 +98,31 @@
       <guid>https://www.vectorta.com/article/biotech-recruitment-in-south-africa-a-hiring-managers-view-of-the-market</guid>
     </item>
     <item>
+      <title>5 Trends Shaping CDMO Hiring Right Now</title>
+      <link>https://www.vectorta.com/article/5-trends-shaping-cdmo-hiring-right-now</link>
+      <category>Industry</category>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/5-trends-shaping-cdmo-hiring-right-now</guid>
+    </item>
+    <item>
       <title>CDMO Recruitment in South Africa: Understanding the Market</title>
       <link>https://www.vectorta.com/article/cdmo-recruitment-in-south-africa-understanding-the-market</link>
       <category>Talent Acquisition</category>
       <pubDate>Mon, 04 May 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/cdmo-recruitment-in-south-africa-understanding-the-market</guid>
+    </item>
+    <item>
+      <title>Post-DCAT Week 2026: The Pharma Trends That Are Already Reshaping CDMO, CRO and Biotech Hiring</title>
+      <link>https://www.vectorta.com/article/post-dcat-week-2026-the-pharma-trends-that-are-already-reshaping-cdmo-cro-and-biotech-hiring</link>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/post-dcat-week-2026-the-pharma-trends-that-are-already-reshaping-cdmo-cro-and-biotech-hiring</guid>
+    </item>
+    <item>
+      <title>Is GLP-1 the New Penicillin? What the Market Shift Means for CDMOs and CROs</title>
+      <link>https://www.vectorta.com/article/is-glp-1-the-new-penicillin-what-the-market-shift-means-for-cdmos-and-cros</link>
+      <category>Industry</category>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/is-glp-1-the-new-penicillin-what-the-market-shift-means-for-cdmos-and-cros</guid>
     </item>
     <item>
       <title>CRO Hiring in South Africa: What the Market Looks Like Right Now</title>
@@ -182,6 +153,12 @@
       <guid>https://www.vectorta.com/article/biotech-hiring-market-2026</guid>
     </item>
     <item>
+      <title>How to Hire Senior Leaders for a New CDMO Site: A Practical Guide for Hiring Managers</title>
+      <link>https://www.vectorta.com/article/how-to-hire-senior-leaders-cdmo-site</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/how-to-hire-senior-leaders-cdmo-site</guid>
+    </item>
+    <item>
       <title>CRO Recruitment Best Practices: How to Build High-Impact Teams</title>
       <link>https://www.vectorta.com/article/cro-recruitment-best-practices</link>
       <category>Talent Acquisition</category>
@@ -201,6 +178,12 @@
       <category>Industry</category>
       <pubDate>Wed, 01 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/the-crdmo-effect-why-the-leaders-the-industry-needs-dont-exist-yet</guid>
+    </item>
+    <item>
+      <title>Biotech Recruitment Strategy: How to Compete for Specialist Talent</title>
+      <link>https://www.vectorta.com/article/biotech-recruitment-strategy</link>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/biotech-recruitment-strategy</guid>
     </item>
     <item>
       <title>From Prediction to Reality: How the BIO2025 Workforce Trends Are Playing Out in 2026</title>
@@ -350,6 +333,13 @@
       <guid>https://www.vectorta.com/article/elevate-audrey-greenberg-on-pivoting-with-purpose</guid>
     </item>
     <item>
+      <title>Dining in Milan for CPHI</title>
+      <link>https://www.vectorta.com/article/dining-in-milan-for-cphi</link>
+      <category>Events</category>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/dining-in-milan-for-cphi</guid>
+    </item>
+    <item>
       <title>The Changing Landscape of Talent Acquisition</title>
       <link>https://www.vectorta.com/article/the-changing-landscape-of-talent-acquisition</link>
       <category>Talent Acquisition</category>
@@ -362,6 +352,13 @@
       <category>Company News</category>
       <pubDate>Wed, 04 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/antony-bryson-mcateer-joins-vector</guid>
+    </item>
+    <item>
+      <title>Join Vector at Unleash World in Paris</title>
+      <link>https://www.vectorta.com/article/vectorunleash</link>
+      <category>Events</category>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/vectorunleash</guid>
     </item>
     <item>
       <title>Turning Hiring Managers into Talent Magnets</title>
@@ -390,6 +387,13 @@
       <category>Industry</category>
       <pubDate>Fri, 05 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/accelerating-the-biopharma-supply-chain</guid>
+    </item>
+    <item>
+      <title>Join Vector at CPHI Milan 2024</title>
+      <link>https://www.vectorta.com/article/cphi2024</link>
+      <category>Events</category>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/cphi2024</guid>
     </item>
     <item>
       <title>Q1-2024 Projects</title>

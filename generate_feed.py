@@ -33,6 +33,25 @@ def fetch_articles():
     response.raise_for_status()
     soup = BeautifulSoup(response.text, "html.parser")
 
+    # First pass: build a URL -> date lookup from articles that have clean dates
+    # These are the main chronological list items which include "mins" as a separator
+    url_to_date = {}
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
+        if "/article/" not in href:
+            continue
+        full_url = href if href.startswith("http") else f"https://www.vectorta.com{href}"
+        texts = [
+            t.strip() for t in a.stripped_strings
+            if t.strip() and t.strip().lower() not in ("mins", "min", "1 min", "1 minute", "3 mins", "5 mins")
+        ]
+        for t in texts:
+            parsed = parse_date(t)
+            if parsed:
+                url_to_date[full_url] = parsed
+                break
+
+    # Second pass: collect all articles with title, url, category
     articles = []
     seen_urls = set()
 
@@ -47,27 +66,29 @@ def fetch_articles():
             continue
         seen_urls.add(full_url)
 
-        # Strip "mins" noise and empty strings
+        # Strip noise
         texts = [
             t.strip() for t in a.stripped_strings
-            if t.strip() and t.strip().lower() not in ("mins", "min")
+            if t.strip() and t.strip().lower() not in ("mins", "min", "1 min", "1 minute", "3 mins", "5 mins")
         ]
 
         title = None
-        pub_date = None
         category = None
 
         for t in texts:
-            parsed = parse_date(t)
-            if parsed and pub_date is None:
-                pub_date = parsed
-            elif title is None and len(t) > 8:
+            # Skip date strings — we'll use the lookup instead
+            if parse_date(t):
+                continue
+            if title is None and len(t) > 8:
                 title = t
-            elif title is not None and category is None:
+            elif title is not None and category is None and len(t) < 50:
                 category = t
 
         if not title:
             continue
+
+        # Use the date lookup — covers featured/popular articles that lack inline dates
+        pub_date = url_to_date.get(full_url)
 
         articles.append({
             "title": title,
@@ -75,6 +96,9 @@ def fetch_articles():
             "category": category or "",
             "pub_date": pub_date,
         })
+
+    # Sort by date descending, undated items go to the bottom
+    articles.sort(key=lambda x: x["pub_date"] or datetime.min.replace(tzinfo=timezone.utc), reverse=True)
 
     return articles
 
@@ -96,7 +120,7 @@ def build_rss(articles):
     )
 
     atom_link = ET.SubElement(channel, "atom:link")
-    atom_link.set("href", "https://raw.githubusercontent.com/jamesvector/vector-rss/main/vector-talent-insights.xml")
+    atom_link.set("href", "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/vector-talent-insights.xml")
     atom_link.set("rel", "self")
     atom_link.set("type", "application/rss+xml")
 
@@ -117,7 +141,6 @@ def prettify(element):
     raw = ET.tostring(element, encoding="unicode")
     dom = xml.dom.minidom.parseString(f'<?xml version="1.0" encoding="UTF-8"?>{raw}')
     pretty = dom.toprettyxml(indent="  ", encoding=None)
-    # Remove the extra declaration minidom adds
     lines = pretty.split("\n")
     if lines[0].startswith("<?xml"):
         lines[0] = '<?xml version="1.0" encoding="UTF-8"?>'
@@ -129,13 +152,17 @@ def main():
     articles = fetch_articles()
     print(f"Found {len(articles)} articles.")
 
+    # Print first 5 to verify dates are correct
+    for a in articles[:5]:
+        print(f"  {a['pub_date'].strftime('%d %b %Y') if a['pub_date'] else 'NO DATE'} | {a['title']}")
+
     rss = build_rss(articles)
     xml_str = prettify(rss)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(xml_str)
 
-    print(f"Feed written to {OUTPUT_FILE}")
+    print(f"\nFeed written to {OUTPUT_FILE}")
 
 
 if __name__ == "__main__":

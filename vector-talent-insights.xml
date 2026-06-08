@@ -5,8 +5,22 @@
     <link>https://www.vectorta.com/insights</link>
     <description>Recruitment, talent development and industry trends for CDMO &amp; CRO organisations from Vector Talent.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 07 Jun 2026 10:29:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 12:28:41 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/vector-talent-insights.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Hunter vs Farmer in Pharma Services BD: Why Misreading the Difference Costs You 12 Months</title>
+      <link>https://www.vectorta.com/article/hunter-vs-farmer-pharma-services-bd-hiring</link>
+      <category>Talent Acquisition</category>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/hunter-vs-farmer-pharma-services-bd-hiring</guid>
+    </item>
+    <item>
+      <title>Building a Clinical Operations Function in Biotech: Where Hiring Managers Go Wrong</title>
+      <link>https://www.vectorta.com/article/building-a-clinical-operations-function-in-biotech-where-hiring-managers-go-wrong</link>
+      <category>Leadership</category>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/building-a-clinical-operations-function-in-biotech-where-hiring-managers-go-wrong</guid>
+    </item>
     <item>
       <title>CDMO Recruitment: Why Specialist Knowledge Changes Everything</title>
       <link>https://www.vectorta.com/article/cdmo-recruitment-specialist-knowledge</link>
@@ -31,6 +45,7 @@
     <item>
       <title>Vector Talent Elevates Jack Shute to Chief Operating Officer</title>
       <link>https://www.vectorta.com/article/jack-shute-promoted-chief-operating-officer-vector-talent</link>
+      <category>Company News</category>
       <pubDate>Thu, 28 May 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/jack-shute-promoted-chief-operating-officer-vector-talent</guid>
     </item>
@@ -114,6 +129,7 @@
     <item>
       <title>Post-DCAT Week 2026: The Pharma Trends That Are Already Reshaping CDMO, CRO and Biotech Hiring</title>
       <link>https://www.vectorta.com/article/post-dcat-week-2026-the-pharma-trends-that-are-already-reshaping-cdmo-cro-and-biotech-hiring</link>
+      <category>Events</category>
       <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/post-dcat-week-2026-the-pharma-trends-that-are-already-reshaping-cdmo-cro-and-biotech-hiring</guid>
     </item>
@@ -148,13 +164,13 @@
     <item>
       <title>The Biotech Hiring Market in 2026: Where Things Actually Stand</title>
       <link>https://www.vectorta.com/article/biotech-hiring-market-2026</link>
-      <category>Industry</category>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/biotech-hiring-market-2026</guid>
     </item>
     <item>
       <title>How to Hire Senior Leaders for a New CDMO Site: A Practical Guide for Hiring Managers</title>
       <link>https://www.vectorta.com/article/how-to-hire-senior-leaders-cdmo-site</link>
+      <category>Talent Acquisition</category>
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/how-to-hire-senior-leaders-cdmo-site</guid>
     </item>
@@ -182,13 +198,13 @@
     <item>
       <title>Biotech Recruitment Strategy: How to Compete for Specialist Talent</title>
       <link>https://www.vectorta.com/article/biotech-recruitment-strategy</link>
+      <category>Talent Acquisition</category>
       <pubDate>Tue, 31 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/biotech-recruitment-strategy</guid>
     </item>
     <item>
       <title>From Prediction to Reality: How the BIO2025 Workforce Trends Are Playing Out in 2026</title>
       <link>https://www.vectorta.com/article/from-prediction-to-reality-how-the-bio2025-workforce-trends-are-playing-out-in-2026</link>
-      <category>Industry</category>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/from-prediction-to-reality-how-the-bio2025-workforce-trends-are-playing-out-in-2026</guid>
     </item>
@@ -202,7 +218,6 @@
     <item>
       <title>CDMO and CRO Talent Trends in 2026: Why People Will Define the Next Growth Phase</title>
       <link>https://www.vectorta.com/article/cdmo-and-cro-talent-trends-in-2026-why-people-will-define-the-next-growth-phase</link>
-      <category>Industry</category>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/cdmo-and-cro-talent-trends-in-2026-why-people-will-define-the-next-growth-phase</guid>
     </item>

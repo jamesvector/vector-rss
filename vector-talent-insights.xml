@@ -5,8 +5,15 @@
     <link>https://www.vectorta.com/insights</link>
     <description>Recruitment, talent development and industry trends for CDMO &amp; CRO organisations from Vector Talent.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 09 Jun 2026 11:15:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 11:39:14 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/vector-talent-insights.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>CRO Recruitment: Building Teams in a Sector That Can't Afford to Get It Wrong</title>
+      <link>https://www.vectorta.com/article/cro-recruitment</link>
+      <category>Talent Acquisition</category>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/cro-recruitment</guid>
+    </item>
     <item>
       <title>Pharmaceutical Talent Trends 2026: Building the Workforce of the Future</title>
       <link>https://www.vectorta.com/article/pharmaceutical-talent-trends-2026-building-the-workforce-of-the-future</link>
@@ -224,6 +231,7 @@
     <item>
       <title>CDMO and CRO Talent Trends in 2026: Why People Will Define the Next Growth Phase</title>
       <link>https://www.vectorta.com/article/cdmo-and-cro-talent-trends-in-2026-why-people-will-define-the-next-growth-phase</link>
+      <category>Industry</category>
       <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/cdmo-and-cro-talent-trends-in-2026-why-people-will-define-the-next-growth-phase</guid>
     </item>

@@ -5,8 +5,15 @@
     <link>https://www.vectorta.com/insights</link>
     <description>Recruitment, talent development and industry trends for CDMO &amp; CRO organisations from Vector Talent.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 10 Jun 2026 11:39:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 12:10:11 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/vector-talent-insights.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Molecule Was the Easy Part: The GLP-1 Talent Bottleneck</title>
+      <link>https://www.vectorta.com/article/glp-1-manufacturing-talent-bottleneck</link>
+      <category>Industry</category>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/glp-1-manufacturing-talent-bottleneck</guid>
+    </item>
     <item>
       <title>CRO Recruitment: Building Teams in a Sector That Can't Afford to Get It Wrong</title>
       <link>https://www.vectorta.com/article/cro-recruitment</link>

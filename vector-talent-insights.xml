@@ -5,8 +5,15 @@
     <link>https://www.vectorta.com/insights</link>
     <description>Recruitment, talent development and industry trends for CDMO &amp; CRO organisations from Vector Talent.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 16 Jun 2026 12:53:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 12:16:55 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/vector-talent-insights.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Biotech Recruiters Who Understand the Science, the Stage, and the Stakes</title>
+      <link>https://www.vectorta.com/article/biotech-recruiters</link>
+      <category>Talent Acquisition</category>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/biotech-recruiters</guid>
+    </item>
     <item>
       <title>Why Small Molecule Experience Doesn't Bridge the Gap to Biologics Hiring at CDMOs</title>
       <link>https://www.vectorta.com/article/biologics-hiring-cdmo-small-molecule-talent-gap</link>

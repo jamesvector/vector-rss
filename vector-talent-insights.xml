@@ -5,8 +5,29 @@
     <link>https://www.vectorta.com/insights</link>
     <description>Recruitment, talent development and industry trends for CDMO &amp; CRO organisations from Vector Talent.</description>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 20 Jul 2026 10:51:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 10:24:53 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/vector-talent-insights.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The FDA wants risk-based Quality. Most CDMOs are still built for zero risk.</title>
+      <link>https://www.vectorta.com/article/quality-hiring-in-cdmos-what-fda-ai-guidance-means</link>
+      <category>Industry</category>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/quality-hiring-in-cdmos-what-fda-ai-guidance-means</guid>
+    </item>
+    <item>
+      <title>The Biotech Clinical Development Talent Market in 2026: What Hiring Managers Need to Know</title>
+      <link>https://www.vectorta.com/article/biotech-clinical-development-talent-market-2026</link>
+      <category>Industry</category>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/biotech-clinical-development-talent-market-2026</guid>
+    </item>
+    <item>
+      <title>Where Senior CDMO Commercial Talent Actually Sits: How to Access It</title>
+      <link>https://www.vectorta.com/article/where-senior-cdmo-commercial-talent-sits</link>
+      <category>Talent Acquisition</category>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/where-senior-cdmo-commercial-talent-sits</guid>
+    </item>
     <item>
       <title>Senior and Executive Hiring in Pharma Outsourcing: Why the Stakes Are Higher and the Approach Has to Match</title>
       <link>https://www.vectorta.com/article/senior-executive-hiring-pharma-outsourcing</link>
@@ -94,6 +115,7 @@
     <item>
       <title>Pride Month in a Colder Climate: What the Retreat from DE&amp;I Misses About Hiring</title>
       <link>https://www.vectorta.com/article/dei-retreat-pharma-hiring</link>
+      <category>DE&amp;I</category>
       <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/dei-retreat-pharma-hiring</guid>
     </item>
@@ -225,7 +247,6 @@
     <item>
       <title>5 Trends Shaping CDMO Hiring Right Now</title>
       <link>https://www.vectorta.com/article/5-trends-shaping-cdmo-hiring-right-now</link>
-      <category>Industry</category>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/5-trends-shaping-cdmo-hiring-right-now</guid>
     </item>
@@ -315,7 +336,6 @@
     <item>
       <title>From Prediction to Reality: How the BIO2025 Workforce Trends Are Playing Out in 2026</title>
       <link>https://www.vectorta.com/article/from-prediction-to-reality-how-the-bio2025-workforce-trends-are-playing-out-in-2026</link>
-      <category>Industry</category>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/from-prediction-to-reality-how-the-bio2025-workforce-trends-are-playing-out-in-2026</guid>
     </item>

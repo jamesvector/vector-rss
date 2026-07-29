@@ -5,7 +5,7 @@
     <link>https://www.vectorta.com/insights</link>
     <description>Recruitment, talent development and industry trends for CDMO &amp; CRO organisations from Vector Talent.</description>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 28 Jul 2026 10:34:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 10:38:49 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/vector-talent-insights.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Tariffs, capacity and the GLP-1 hire nobody planned for</title>
@@ -343,6 +343,7 @@
     <item>
       <title>From Prediction to Reality: How the BIO2025 Workforce Trends Are Playing Out in 2026</title>
       <link>https://www.vectorta.com/article/from-prediction-to-reality-how-the-bio2025-workforce-trends-are-playing-out-in-2026</link>
+      <category>Industry</category>
       <pubDate>Wed, 18 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/from-prediction-to-reality-how-the-bio2025-workforce-trends-are-playing-out-in-2026</guid>
     </item>
@@ -687,6 +688,11 @@
       <category>Industry</category>
       <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/preparing-your-post-pandemic-talent-strategy</guid>
+    </item>
+    <item>
+      <title>ELEVATE: Serendipity, Courage and the Power of &quot;So What&quot;: A Conversation with Susan D'Costa</title>
+      <link>https://www.vectorta.com/article/elevate-serendipity-courage-and-the-power-of-so-what-a-conversation-with-susan-dcosta</link>
+      <guid>https://www.vectorta.com/article/elevate-serendipity-courage-and-the-power-of-so-what-a-conversation-with-susan-dcosta</guid>
     </item>
   </channel>
 </rss>

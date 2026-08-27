@@ -5,8 +5,15 @@
     <link>https://www.vectorta.com/insights</link>
     <description>Recruitment, talent development and industry trends for CDMO &amp; CRO organisations from Vector Talent.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 26 Aug 2026 08:42:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 18:53:07 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/vector-talent-insights.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Women in Pharma Leadership: Why the Step to Senior Roles Is the Hard One</title>
+      <link>https://www.vectorta.com/article/women-pharma-leadership-career-progression-cdmo-cro</link>
+      <category>Leadership</category>
+      <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/women-pharma-leadership-career-progression-cdmo-cro</guid>
+    </item>
     <item>
       <title>Pharma Reshoring Recruitment: Staffing 44,000 New Manufacturing Jobs</title>
       <link>https://www.vectorta.com/article/pharma-reshoring-recruitment-manufacturing-talent-gap</link>
@@ -17,7 +24,6 @@
     <item>
       <title>CPHI 2026: Why the Best CDMOs and CROs Are Booking Meetings Before Milan</title>
       <link>https://www.vectorta.com/article/cphi-2026-book-a-meeting</link>
-      <category>Events</category>
       <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/cphi-2026-book-a-meeting</guid>
     </item>
@@ -316,6 +322,7 @@
     <item>
       <title>The Biotech Hiring Market in 2026: Where Things Actually Stand</title>
       <link>https://www.vectorta.com/article/biotech-hiring-market-2026</link>
+      <category>Industry</category>
       <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/biotech-hiring-market-2026</guid>
     </item>

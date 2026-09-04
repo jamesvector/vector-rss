@@ -5,8 +5,15 @@
     <link>https://www.vectorta.com/insights</link>
     <description>Recruitment, talent development and industry trends for CDMO &amp; CRO organisations from Vector Talent.</description>
     <language>en-gb</language>
-    <lastBuildDate>Thu, 03 Sep 2026 12:37:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 12:31:55 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/vector-talent-insights.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Beyond Manufacturing: What the EU-India FTA Means for Indian CDMOs in Europe</title>
+      <link>https://www.vectorta.com/article/insights-eu-india-fta-indian-cdmos-europe</link>
+      <category>Industry</category>
+      <pubDate>Thu, 03 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/insights-eu-india-fta-indian-cdmos-europe</guid>
+    </item>
     <item>
       <title>Women in Pharma Leadership: Why the Step to Senior Roles Is the Hard One</title>
       <link>https://www.vectorta.com/article/women-pharma-leadership-career-progression-cdmo-cro</link>
@@ -702,13 +709,6 @@
       <category>DE&amp;I</category>
       <pubDate>Tue, 06 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/top-10-advices-to-control-unconscious-bias-for-successful-recruitment</guid>
-    </item>
-    <item>
-      <title>Preparing Your Post Pandemic Talent Strategy</title>
-      <link>https://www.vectorta.com/article/preparing-your-post-pandemic-talent-strategy</link>
-      <category>Industry</category>
-      <pubDate>Tue, 05 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.vectorta.com/article/preparing-your-post-pandemic-talent-strategy</guid>
     </item>
     <item>
       <title>ELEVATE: Serendipity, Courage and the Power of &quot;So What&quot;: A Conversation with Susan D'Costa</title>

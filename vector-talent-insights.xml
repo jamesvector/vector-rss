@@ -5,8 +5,14 @@
     <link>https://www.vectorta.com/insights</link>
     <description>Recruitment, talent development and industry trends for CDMO &amp; CRO organisations from Vector Talent.</description>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 15 Nov 2026 15:24:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 17:58:52 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/vector-talent-insights.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Léon Spijkers, Korecyte Bio, on In Vivo CAR-T and Pathological Optimism</title>
+      <link>https://www.vectorta.com/article/leon-spijkers-korecyte-bio-on-in-vivo-car-t-and-pathological-optimism</link>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/leon-spijkers-korecyte-bio-on-in-vivo-car-t-and-pathological-optimism</guid>
+    </item>
     <item>
       <title>How to Hire a Business Development Manager for a CDMO</title>
       <link>https://www.vectorta.com/article/how-to-hire-a-business-development-manager-for-a-cdmo</link>
@@ -302,6 +308,7 @@
     <item>
       <title>5 Trends Shaping CDMO Hiring Right Now</title>
       <link>https://www.vectorta.com/article/5-trends-shaping-cdmo-hiring-right-now</link>
+      <category>Industry</category>
       <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/5-trends-shaping-cdmo-hiring-right-now</guid>
     </item>
@@ -702,13 +709,6 @@
       <category>Talent Acquisition</category>
       <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/how-to-protect-your-teams-from-burning-out</guid>
-    </item>
-    <item>
-      <title>Hiring Your Way to Growth</title>
-      <link>https://www.vectorta.com/article/hiring-your-way-to-growth</link>
-      <category>Industry</category>
-      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.vectorta.com/article/hiring-your-way-to-growth</guid>
     </item>
     <item>
       <title>ELEVATE: Serendipity, Courage and the Power of &quot;So What&quot;: A Conversation with Susan D'Costa</title>

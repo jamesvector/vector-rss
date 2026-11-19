@@ -5,8 +5,15 @@
     <link>https://www.vectorta.com/insights</link>
     <description>Recruitment, talent development and industry trends for CDMO &amp; CRO organisations from Vector Talent.</description>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 18 Nov 2026 16:58:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 17:05:31 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/vector-talent-insights.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Using AI to Negotiate a Job Offer: What Hiring Teams See From the Other Side</title>
+      <link>https://www.vectorta.com/article/using-ai-to-negotiate-a-job-offer-what-hiring-teams-see-from-the-other-side</link>
+      <category>Talent Acquisition</category>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.vectorta.com/article/using-ai-to-negotiate-a-job-offer-what-hiring-teams-see-from-the-other-side</guid>
+    </item>
     <item>
       <title>Léon Spijkers, Korecyte Bio, on In Vivo CAR-T and Pathological Optimism</title>
       <link>https://www.vectorta.com/article/leon-spijkers-korecyte-bio-on-in-vivo-car-t-and-pathological-optimism</link>
@@ -702,13 +709,6 @@
       <category>Candidate Experience</category>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://www.vectorta.com/article/why-pride-month-matters-to-science</guid>
-    </item>
-    <item>
-      <title>How to Protect Your Teams from Burning Out</title>
-      <link>https://www.vectorta.com/article/how-to-protect-your-teams-from-burning-out</link>
-      <category>Talent Acquisition</category>
-      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.vectorta.com/article/how-to-protect-your-teams-from-burning-out</guid>
     </item>
     <item>
       <title>ELEVATE: Serendipity, Courage and the Power of &quot;So What&quot;: A Conversation with Susan D'Costa</title>
